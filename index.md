@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: Centenary
 permalink: /index.html
 ---
 
 ![Claude Shannon](assets/photo.jpg)
 
-The American mathematician and computer scientist who conceived and laid the foundations for information theory.
-His theories laid the groundwork for the electronic communications networks that now lace the earth.
+The Shannon Centenary, 2016, marks the life and influence of Claude Shannon on the hundredth anniversary of his birth on 30 April 1916
+Shannon is best known for developing the mathematical foundations of communication (establishing the field of information theory), data compression, digital computers, cryptography, circuit complexity, flow networks, and juggling, as well as laying foundations of artificial intelligence and human–computer interaction.
 
-This year, we celebrate 100 years since the birth of Claude Shannon, the father of information theory.
-To mark the occasion, a number of outreach centennial events are organized worldwide, aiming to make the contributions of Claude Shannon and information theory more widely known to the general public.
+
+![Celebrations](assets/centenary.jpg)
 
 
