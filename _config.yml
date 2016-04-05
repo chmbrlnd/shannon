@@ -3,8 +3,9 @@ exclude: [".gitignore", "README.md", "Gemfile"]
 title: "Claude Shannon"
 email: "oe@itsoc.org"
 description: ""
-url: "https://chmbrlnd.github.io/shannon"
-baseurl: "" # GitHub
+url: "https://chmbrlnd.github.io/"
+# url: "http://shannon.tamu.edu"
+baseurl: "shannon.tamu.edu" # GitHub
 # twitter_username: ""
 # github_username: ""
 # Build settings
