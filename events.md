@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Events
-permalink: /index.html
+permalink: /events.html
 ---
 
 ![Celebrations](assets/centenary.jpg)
