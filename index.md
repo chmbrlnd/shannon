@@ -10,6 +10,3 @@ The Shannon Centenary, 2016, marks the life and influence of Claude Shannon on t
 Shannon is best known for developing the mathematical foundations of communication (establishing the field of information theory), data compression, digital computers, cryptography, circuit complexity, flow networks, and juggling, as well as laying foundations of artificial intelligence and human–computer interaction.
 
 
-![Celebrations](assets/centenary.jpg)
-
-
