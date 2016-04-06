@@ -11,7 +11,7 @@ Everyone is welcome to participate.
 
 ## Schedule
 
-* April 9 at 12:00PM: Public Lecture – **Claude Shannon: A Pioneer of the Information Age** – Jack E. Brown Chemical Engineering Building, Room 106.
+* **April 9 at 12:00PM**: Public Lecture – **Claude Shannon: A Pioneer of the Information Age** – Jack E. Brown Chemical Engineering Building, Room 106.
 
 
 Claude Shannon is one of the most influential scientists of the 20th century and is considered to be the father of the digital age. In his landmark paper published in 1948, he developed an elegant theory called information theory, which introduced the modern concept of information and provided guidelines on how to efficiently acquire, compress, store and transmit information. Just as how Newton's and Einstein's theories revolutionized our understanding of the physical world, Shannon's information theory has revolutionized our understanding of the digital world.
