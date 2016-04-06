@@ -4,7 +4,7 @@ title: Events
 permalink: /events.html
 ---
 
-In honor of the Shannon Centenary, events will be taking place at Texas A&amps;M University on April 9, 2016.
+In honor of the Shannon Centenary, events will be taking place at Texas A&M University on April 9, 2016.
 These events are planned in conjunction with the [Physics and Engineering Festival](http://physicsfestival.tamu.edu/).
 The Organizing Committee for the Shannon Centenary invite the public to a series of entertaining and informative events with puzzles, posters and a presentation.
 Everyone is welcome to participate.
