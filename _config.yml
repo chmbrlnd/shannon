@@ -5,7 +5,7 @@ email: "oe@itsoc.org"
 description: ""
 url: "https://chmbrlnd.github.io/"
 # url: "http://shannon.tamu.edu"
-baseurl: "shannon/" # GitHub
+baseurl: "" # GitHub
 # twitter_username: ""
 # github_username: ""
 # Build settings
