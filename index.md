@@ -4,8 +4,6 @@ title: Events
 permalink: /index.html
 ---
 
-A Few Bits of Information Theory
-
 This year, information theory events will be taking place at Texas A&M University on April 1, 2017.
 These events are planned in conjunction with the [Physics and Engineering Festival](http://physicsfestival.tamu.edu/).
 The Organizing Committee for this introduction to information theory invites the public to a series of entertaining and informative events with puzzles, posters and a presentation.

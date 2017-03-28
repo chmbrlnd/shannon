@@ -1,12 +1,10 @@
 ---
 layout: page
-title: Centenary
-permalink: /index.html
+title: Shannon
+permalink: /shannon.html
 ---
 
 ![Claude Shannon](assets/photo.jpg)
 
 The *Shannon Centenary*, 2016, marks the life and influence of Claude Shannon on the hundredth anniversary of his birth on 30 April 1916.
-Shannon is best known for developing the mathematical foundations of communication (establishing the field of information theory), data compression, digital computers, cryptography, circuit complexity, flow networks, and juggling, as well as laying foundations of artificial intelligence and human–computer interaction. 
-
-There are a lot of events being planned around the world to commemorate the *centenary* of Shannon. For a detailed list, check out the [Wikipedia page](https://en.wikipedia.org/wiki/Claude_Shannon#Commemorations) of Claude Shannon.
+Shannon is best known for developing the mathematical foundations of communication (establishing the field of information theory), data compression, digital computers, cryptography, circuit complexity, flow networks, and juggling, as well as laying foundations for artificial intelligence and human–computer interaction. 
