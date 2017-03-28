@@ -1,7 +1,7 @@
 # Site settings
 exclude: [".gitignore", "README.md", "Gemfile"]
 title: "A Few Bits of Information Theory"
-email: "oe@itsoc.org"
+# email: "oe@itsoc.org"
 description: ""
 #url: "https://chmbrlnd.github.io/"
 url: "http://shannon.tamu.edu"
