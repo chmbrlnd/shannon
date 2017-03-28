@@ -11,7 +11,7 @@ Everyone is welcome to participate.
 
 ## Schedule
 
-* **April 1** at **12:00PM**: Public Lecture – **A Few Bits of Information Theory** – Jack E. Brown Chemical Engineering Building, Room 108.
+* **April 1** at **12:00PM**: Public Lecture – **A Few Bits of Information Theory** – Jack E. Brown Chemical Engineering Building, Room 108. (Free Pizza)
 
 
 Information theory is rooted in the work of Claude Shannon, who is one of the most influential scientists of the 20th century. He is considered to be the father of the digital age. In his landmark paper published in 1948, he developed an elegant theory called information theory, which introduced the modern concept of information and provided guidelines on how to efficiently acquire, compress, store and transmit information. Just as how Newton's and Einstein's theories shaped our understanding of the physical world, Shannon's information theory has shaped our understanding of the digital world.
