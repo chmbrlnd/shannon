@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Events
-permalink: /events.html
+permalink: /index.html
 ---
 
 In honor of the Shannon Centenary, events will be taking place at Texas A&M University on April 9, 2016.
